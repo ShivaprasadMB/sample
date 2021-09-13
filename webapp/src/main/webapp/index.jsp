@@ -10,7 +10,7 @@
         font-family: "Times New Roman";
         font-weight: bold;
         font-size: 40px;
-        color: rgb(0, 153, 128);
+        color: rgb(245, 11, 11);
         text-align: center;
         font-family: "Comic Sans MS", cursive, sans-serif;
         text-align: center;
@@ -18,8 +18,8 @@
     </style>
   </head>
   <body
-    style="background-image: url('https://image.shutterstock.com/image-photo/old-brick-black-color-wall-260nw-1605128917.jpg');"
+    style="background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg');"
   >
-    <p class="prop">This is second maven job web page!</p>
+    <p class="prop">This is third maven job web page!</p>
   </body>
 </html>
